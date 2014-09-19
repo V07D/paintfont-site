@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'paint';
+	src: url('fonts/paint.woff') format('woff');
+}
+
+body {
+  font-family: 'paint', Fallback, sans-serif;
+  font-size: 150%;
+}
+
+.paint {
+	font-family: 'paint', Fallback, sans-serif;
+	font-size: 150%;
+}
